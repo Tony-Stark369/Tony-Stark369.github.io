@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Tony-Stark369.github.io</id>
+    <title>一个运维仔的blog</title>
+    <updated>2023-09-22T01:37:01.750Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://Tony-Stark369.github.io"/>
+    <link rel="self" href="https://Tony-Stark369.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://Tony-Stark369.github.io/images/avatar.png</logo>
+    <icon>https://Tony-Stark369.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, 一个运维仔的blog</rights>
+</feed>
